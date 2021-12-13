@@ -1,10 +1,10 @@
 # qr-code-scanner-app
 Assignment - 2   [2CEIT5PE5  Mobile Application Development]
-Title :
-Created By :
+Title :Qr code scanner app
+Created By :priyen patel
 Description :
-Software :
-Language :
+Software :Android Studio  
+Language :Kotlin
 Steps to Build :
 1) Unzip File
 2) open Android Studio 
